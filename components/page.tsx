@@ -5,7 +5,7 @@ const Hello = () => {
     console.log("client ?")
   return (
     <div>
-      hello
+      hello khalid 
     </div>
   )
 }
